@@ -1,0 +1,17 @@
+# python run
+venv/
+.pytest_cache/
+*/__pycache__
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# tmp files
+tmp/
+self_test/
+
+# output dir
+report/
